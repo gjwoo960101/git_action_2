@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v6.9.0
         with:
           push: true
-          tages: gjwoo96/deploy_test:latest
+          tages: gjwoo96/deploy_test:tmptmp
